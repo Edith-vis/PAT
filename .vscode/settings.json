@@ -3,7 +3,7 @@
     "editor.formatOnType": true, // 输入时就进行格式化，默认触发字符较少，分号可以触发
     "editor.snippetSuggestions": "top", // snippets代码优先显示补全
 
-    "editor.fontSize": 14,
+    "editor.fontSize": 13,
 
     "code-runner.runInTerminal": true, // 设置成false会在“输出”中输出，无法输入
     "code-runner.executorMap": {
